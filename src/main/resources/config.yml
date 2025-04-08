@@ -1,0 +1,8 @@
+# CustomItemChecker Configuration
+
+# Should players be notified when they try to craft with colored items?
+notify-players: true
+
+# The message to show players when they try to craft with colored items
+# Leave empty to disable the message
+notification-message: "&cYou cannot use items with colored names in crafting recipes!"

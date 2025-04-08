@@ -1,0 +1,6 @@
+name: CustomItemChecker
+version: 1.0-SNAPSHOT
+main: ro.marioenache.customitemchecker.CustomItemChecker
+api-version: '1.20'
+description: Prevents crafting with items that have custom names with color flags
+author: marioenache
